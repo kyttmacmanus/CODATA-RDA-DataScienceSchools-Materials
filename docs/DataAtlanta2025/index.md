@@ -62,6 +62,7 @@ Activite
 * [RDA Groups](https://www.rd-alliance.org/groups)
 * [The Committee on Data for the International Science Council](https://www.codata.org)
 * [The Carpentries](https://carpentries.org/)
+* [NASA TOPS-T SCHOOL Project](https://ciesin-geospatial.github.io/TOPSTSCHOOL/)
 
 ## Contacts <a name="contacts"></a>
 
@@ -74,6 +75,7 @@ Instructors from the in-person week:
 | Ayishih Bellew              | University of the Virgin Islands     | [here](https://www.uvi.edu/directory/staff/ayishih-k-bellew.html) |
 | Nii Tawiah                  | Delaware State Univers               | ntawiah@desu.edu                                                  |
 | Steve Diggs                 | University of California             | [here](https://www.ucop.edu/directory-search/index.php)           |
+| Kytt MacManus               | Columbia University                  | [here](https://people.climate.columbia.edu/users/profile/kytt-macmanus)           |
 
 ## Additional Materials <a name="+materials"></a>
 
